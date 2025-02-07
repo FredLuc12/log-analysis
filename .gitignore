@@ -1,0 +1,13 @@
+# Ignorer les fichiers de log
+logs/
+*.log
+
+# Ignorer les fichiers de données volumineux
+data/
+*.csv
+*.json
+*.tar
+
+# Ignorer les fichiers temporaires
+__pycache__/
+*.pyc
